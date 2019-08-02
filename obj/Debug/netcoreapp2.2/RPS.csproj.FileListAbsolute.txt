@@ -1,0 +1,11 @@
+C:\Users\froci\source\codeworks\RPS\RPS\obj\Debug\netcoreapp2.2\RPS.csprojAssemblyReference.cache
+C:\Users\froci\source\codeworks\RPS\RPS\obj\Debug\netcoreapp2.2\RPS.csproj.CoreCompileInputs.cache
+C:\Users\froci\source\codeworks\RPS\RPS\obj\Debug\netcoreapp2.2\RPS.AssemblyInfoInputs.cache
+C:\Users\froci\source\codeworks\RPS\RPS\obj\Debug\netcoreapp2.2\RPS.AssemblyInfo.cs
+C:\Users\froci\source\codeworks\RPS\RPS\bin\Debug\netcoreapp2.2\RPS.deps.json
+C:\Users\froci\source\codeworks\RPS\RPS\bin\Debug\netcoreapp2.2\RPS.runtimeconfig.json
+C:\Users\froci\source\codeworks\RPS\RPS\bin\Debug\netcoreapp2.2\RPS.runtimeconfig.dev.json
+C:\Users\froci\source\codeworks\RPS\RPS\bin\Debug\netcoreapp2.2\RPS.dll
+C:\Users\froci\source\codeworks\RPS\RPS\bin\Debug\netcoreapp2.2\RPS.pdb
+C:\Users\froci\source\codeworks\RPS\RPS\obj\Debug\netcoreapp2.2\RPS.dll
+C:\Users\froci\source\codeworks\RPS\RPS\obj\Debug\netcoreapp2.2\RPS.pdb
